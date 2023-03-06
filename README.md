@@ -63,7 +63,7 @@
 <details>
 <summary>Seamless</summary>
 <ul>
-  <li><b>Seamless</b> : a. 매끈한,
+  <li><b>Seamless</b> : a. 매끈한
 
   |분야|설명|예시|
 |:---:|-----|---|
