@@ -3,6 +3,12 @@
 
 ## 용어 모음
 <details>
+<summary>DT</summary>
+<ul>
+  <li><b>ITSM(IT Service Management)</b> : IT 서비스 관리. 원활한 고객 지향 IT 서비스를 제공하고 지원하는 정책, 프로세스 및 절차</li>
+</ul>
+</details>
+<details>
 <summary>데이터 품질</summary>
 <ul>
   <li><b>BIS비율</b> : 은행의 건전성 비율</li>
