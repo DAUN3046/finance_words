@@ -64,14 +64,14 @@
 </details>
 
 <details>
-<summary>디지털 리터러시</summary>
+<summary><b>디지털 리터러시</b></summary>
 <ul>
   <li><b>디지털 리터러시</b> : 디지털 문해력. 디지털 플랫폼의 다양한 미디어를 접하면서 명확한 정보를 찾고, 평가하고, 조합하는 개인의 능력</li>
 </ul>
 </details>
 
 <details>
-<summary>Seamless</summary>
+<summary<b>Seamless</b></summary>
 <ul>
   <li><b>Seamless</b> : a. 매끈한
 
