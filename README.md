@@ -71,7 +71,7 @@
 </details>
 
 <details>
-<summary<b>Seamless</b></summary>
+  <summary><b>UX/UI</b></summary>
 <ul>
   <li><b>Seamless</b> : a. 매끈한
 
