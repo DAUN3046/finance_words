@@ -17,7 +17,7 @@
   <li><b>DBA</b> : 데이터베이스 관리자</li>
   <li><b>ERD</b> : 개체-관계 모델</li>
   <li><b>ITO</b> : IT Outsourcing</li>
-  <li><b>OLAP</b> : </li>
+  <li><b>OLAP</b> : 요약 데이터를 쿼리, 추출 및 연구하는 데이터베이스 분석 기술</li>
   <li><b>OLTP</b> : 온라인 트랜잭션 처리</li>
   <li><b>SLA</b> : 서비스 수준 협약</li>
 </ul>
