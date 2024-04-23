@@ -6,7 +6,7 @@
 <summary><b>IT</b></summary>
 <ul>
   <li><b>ITSM(IT Service Management)</b> : IT 서비스 관리. 원활한 고객 지향 IT 서비스를 제공하고 지원하는 정책, 프로세스 및 절차</li>
-  <li>EoS(End of Service): 더 이상 제품을 팔지 않거나 서비스 지원이 종료되는 것</li>
+  <li><b>EoS(End of Service)</b> : 더 이상 제품을 팔지 않거나 서비스 지원이 종료되는 것</li>
 </ul>
 </details>
 <details>
