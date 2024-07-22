@@ -8,6 +8,9 @@
   <li><b>ITSM(IT Service Management)</b> : IT 서비스 관리. 원활한 고객 지향 IT 서비스를 제공하고 지원하는 정책, 프로세스 및 절차</li>
   <li><b>EoS(End of Service)</b> : 더 이상 제품을 팔지 않거나 서비스 지원이 종료되는 것</li>
   <li><b>OSMU(One Source Multi Use)</b> : 하나의 단일 소스로 여러 디바이스에서 호환되는 것</li>
+  <li><b>FEP(Front End Processor)</b> : 원래는 메인프레임에서 통신 과부하를 경감시키기 위해 전처리 작업을 하는 과정을 말하나, 금융권에선 내부 시스템과 외부 대외기관의 시스템을 연계해주는 대외계 솔루션을 의미</li>
+  <li><b>EJB(Enterprise Java Beans)</b> : 기업환경의 시스템을 구현하기 위한 서버측 컴포넌트 모델</li>
+  <li><b>Java Bean</b> : Java 객체를 재사용 가능하도록 컴포넌트화하여 정의한 것</li>
 </ul>
 </details>
 <details>
