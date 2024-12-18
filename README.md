@@ -41,6 +41,21 @@
 </details>
 
 <details>
+<summary><b>기타 데이터</b></summary>
+<ul>
+  <li><b>KYC 데이터</b> : Know Your Customer(고객 알기 제도)의 일환으로 수집되는 데이터. </li>
+  
+  |항목명|데이터 예시|
+  |:---:|-----|
+  |개인 식별 정보| - 이름, 생년월일, 성별, 주소, 연락처 등 </br> - 신분증 사본(주민등록증, 여권, 운전면허증 등) 및 인증 정보|
+  |금융 정보| - 계좌번호, 카드 정보, 거래 내역 </br> - 자산 상태 및 소득 증빙 자료|
+  |행동 데이터 및 활동 정보| - 거래 패턴 및 빈도 </br> - 고객의 직업, 거래 목적(투자, 송금 등)|
+  |고객 평가 및 분류 정보| - 고객의 위험 등급(Risk Rating) </br> - PEP(정치적으로 노출된 인물, Politically Exposed Person) 여부 </br> - 제재 대상 여부(Sanction List 확인)|
+
+</ul>
+</details>
+
+<details>
 <summary><b>금융 IT 시스템의 구조</b></summary>
 <ul>
   <li><b>계정계</b> : </li>
