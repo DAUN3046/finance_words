@@ -100,6 +100,15 @@
 </details>
 
 <details>
+  <summary><b>보험 관련 용어</b></summary>
+  <ul>
+    <li><b>재보험사</b> : Reinsurance Company. 보험사를 위한 보험을 제공하는 회사로, 보험사(원보험사)가 부담하는 위험을 분산하고 재정적 안정성을 제공하는 역할</li>
+    <li><b>TMR</b> : Telemarketer. 텔레마케팅 설계사</li>
+    <li><b>UW</b> : UnderWriting. 청약자에 대한 위험(신체, 환경, 재정, 도덕적)들을 선택하여 유사한 위험집단(피보험자)으로 분류하고 최종적으로 계약에 대한 승낙과 거절 여부를 결정하는 종합적 의사결정과정을 실행하는 업무</li>
+  </ul>
+</details>
+
+<details>
 <summary><b>디지털 리터러시</b></summary>
 <ul>
   <li><b>디지털 리터러시</b> : 디지털 문해력. 디지털 플랫폼의 다양한 미디어를 접하면서 명확한 정보를 찾고, 평가하고, 조합하는 개인의 능력</li>
@@ -119,7 +128,6 @@
 
 </ul>
 </details>
-
 
 <details>
 <summary><b>마케팅</b></summary>
